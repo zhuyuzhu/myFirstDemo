@@ -1,0 +1,14 @@
+div{
+    width:200px;
+    height: 300px;
+    background-color: green;
+}
+span{
+    color: red;
+}
+a{
+    text-decoration: none;
+}
+.item{
+    cursor: pointer;
+}
