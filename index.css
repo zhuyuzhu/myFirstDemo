@@ -6,14 +6,3 @@ div{
 span{
     color: red;
 }
-a{
-    text-decoration: none;
-}
-.item{
-    cursor: pointer;
-}
-.demo{
-    width: 100px;
-    height: 200px;
-    background-color: blue;
-}
